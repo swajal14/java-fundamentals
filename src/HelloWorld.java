@@ -3,3 +3,9 @@ public class HelloWorld {
         System.out.println("hello world");
     }
 }
+
+class Greeting {
+    static void main(String[] args) {
+        System.out.println("Hii Swajal");
+    }
+}
