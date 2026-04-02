@@ -9,3 +9,9 @@ class Greeting {
         System.out.println("Hii Swajal");
     }
 }
+
+class Hi {
+    static void main(String[] args) {
+        System.out.println("INDIA");
+    }
+}
