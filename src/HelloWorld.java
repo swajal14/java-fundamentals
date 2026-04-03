@@ -12,7 +12,7 @@ class Greeting {
 
 class Hi {
     static void main(String[] args) {
-        System.out.println("INDIA");
+        System.out.println("SWAJAL");
 
     }
 }
