@@ -64,7 +64,7 @@ public class Primitives {
         long
         stores 8 bytes of memory
         we have to add L to the value of long ( or l)
-        example:-  long mobileNo = 8308686856L
+        example:- long mobileNo = 8308686856L
          */
 
         long mobileNo = 8309865325L;
