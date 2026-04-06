@@ -24,7 +24,7 @@ public class Operators {
 
         num1 = 8745;
         num2 = 4556;
-        res = --num1 + ++num2 - --num2 + --num1 - num2++;
+        res = --num1 + ++num2 - --num2 + --num1 - num2++ ;
         System.out.println(res);
         System.out.println(num1);
         System.out.println(num2);
